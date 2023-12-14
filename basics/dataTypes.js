@@ -23,7 +23,7 @@ null ==>standalone value==> represent void
 undefined==>when value is not defined
 symbol==> used in thngs like react for uniqueness
 
-
+NON Primitive
 object
 */
 //we can use typeof operator to know the data type of a variable
